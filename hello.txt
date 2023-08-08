@@ -1,2 +1,3 @@
 Hello there!
 My name is Ariel.
+I love learning Git.
